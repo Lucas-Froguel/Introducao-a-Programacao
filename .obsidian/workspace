@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "74c8241879e47321",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eff439ba519807d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. Funções e Matemática.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43358de89eb077c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ffb593e3f7c097f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba76adb9ebd4e22a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3eb09cfdf997eb0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221
+  },
+  "right": {
+    "id": "35f094326de829ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c4f81ec865b4cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1bbe9b8a9a6885c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Funções e Matemática.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8eff439ba519807d",
+  "lastOpenFiles": [
+    "3. Funções e Matemática.md",
+    "Exemplos/Exemplo 7: vídeos para ascii/README.md",
+    "1. Introdução e Motivação.md",
+    "2. Python Básico.md",
+    "0. Resumo.md"
+  ]
+}
