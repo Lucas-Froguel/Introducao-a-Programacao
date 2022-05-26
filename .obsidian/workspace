@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Funções e Matemática.md",
+            "file": "5..md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Funções e Matemática.md",
+                "file": "5..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,12 @@
   },
   "active": "8eff439ba519807d",
   "lastOpenFiles": [
+    "5..md",
+    "0. Resumo.md",
+    "4. Gráficos.md",
+    "1. Introdução e Motivação.md",
     "3. Funções e Matemática.md",
     "Exemplos/Exemplo 7: vídeos para ascii/README.md",
-    "1. Introdução e Motivação.md",
-    "2. Python Básico.md",
-    "0. Resumo.md"
+    "2. Python Básico.md"
   ]
 }
